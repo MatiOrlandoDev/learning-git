@@ -1,0 +1,23 @@
+[33mcommit 14991a52dd939ce53440c4b00598a6852a7167a5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Matu <matiorlando96@gmail.com>
+Date:   Tue May 16 18:33:43 2023 -0300
+
+    Added main.go with empty main function
+
+[33mcommit f0e01e3d152f0415f51f09032d6fbeb7fe0f13e3[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Matu <matiorlando96@gmail.com>
+Date:   Tue May 16 17:36:40 2023 -0300
+
+    Added body{} in main css
+
+[33mcommit d5f5842d30f64a3fab77766212322b990ae70dd1[m
+Author: Matu <matiorlando96@gmail.com>
+Date:   Tue May 16 16:43:57 2023 -0300
+
+    Added console.log
+
+[33mcommit b3aa5fd3d8bc0bbddf0ab65f9a265150bdaeb8a5[m
+Author: Matu <matiorlando96@gmail.com>
+Date:   Tue May 16 16:30:38 2023 -0300
+
+    Realizando el commit de todo
